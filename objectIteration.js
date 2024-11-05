@@ -119,7 +119,6 @@ function listAllCourses(students) {
       }
     });
   });
-
   return allCourses;
 }
 // console.log(listAllCourses(students));
