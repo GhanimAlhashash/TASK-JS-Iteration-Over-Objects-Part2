@@ -51,7 +51,7 @@ const students = [
   },
 ];
 
-// 1) Write a `getStudentName` function that accepts an argument of `student` object, return the student name
+// 1) Write a `getStudentName` function that accepts an hi argument of `student` object, return the student name
 function getStudentName(student) {
   return student.name;
 }
